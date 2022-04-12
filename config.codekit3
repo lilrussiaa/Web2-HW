@@ -300,6 +300,14 @@
       "oAP" : "\/dev\/content\/learn.html",
       "oF" : 0
     },
+    "\/dev\/content\/link.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/link.html",
+      "oF" : 0
+    },
     "\/dev\/content\/need.kit" : {
       "cB" : 0,
       "ft" : 2048,
