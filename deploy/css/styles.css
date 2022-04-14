@@ -352,6 +352,15 @@ template {
 /* =============
     Base
 ============= */
+.css-grid header {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". header .";
+}
+.css-grid header Div {
+  grid-area: header;
+}
+
 /* =============
     Typography
 ============= */
@@ -382,6 +391,15 @@ textarea {
 /* =============
     Header
 ============= */
+header {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". header .";
+}
+header Div {
+  grid-area: header;
+}
+
 /* =============
     Footer
 ============= */
